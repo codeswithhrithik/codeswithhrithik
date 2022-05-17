@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeswithhrithik
+- 👋 Hi, I’m Hrithik yadav
 - 👀 I’m interested in java
 - 🌱 I’m currently learning full stack java development 
 - 💞️ I’m looking to collaborate
